@@ -18,3 +18,8 @@ Find value that occurs in odd number of elements.
 
 [second attempt](https://codility.com/demo/results/trainingZA7327-UGD/): 100%
 
+### Time Complexity
+
+1. FrogJmp ([score: 100%](https://codility.com/demo/results/trainingAHFH4B-NAM/))
+Count minimal number of jumps from position X to Y.
+
