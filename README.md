@@ -21,3 +21,5 @@ Find value that occurs in odd number of elements.
 1. FrogJmp ([score: 100%](https://codility.com/demo/results/trainingAHFH4B-NAM/))
 Count minimal number of jumps from position X to Y.
 
+2. TapeEquilibrium ([score: 100%](https://codility.com/demo/results/trainingV9ZB2W-GC6/#task-0))
+Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
